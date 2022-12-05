@@ -134,3 +134,6 @@ dmypy.json
 # Prettier
 .prettierignore
 .prettierrc
+
+# Jupyter
+.ipynb_checkpoints
