@@ -13,11 +13,7 @@ JOKE_FILE = "jokes.txt"  # Name of the file containing the "jokes".
 QUIT_KEY = "Q"  # The key which will be used to quit the program.
 
 def main(): # The main function is the entry point of the program.
-    try: # Try to clear the console.
-        system(("cls" if name == "nt" else "clear")) # Lazy way of clearing the console, but it works. Essentially, if the name of the OS is "nt", then use "cls", otherwise use "clear". This is because Windows uses "cls" and Linux uses "clear".
-    except Exception as error: # If an error occurs, then the clear command is not supported on the system.
-        CLEAR_COMMAND = "" # Set the clear command to an empty string.
-        print(f"The clear command \"{CLEAR_COMMAND}\" is not supported on this system, with reason: {error}. Execution will continue, but the console may not be cleared.")
+    system(("cls" if name == "nt" else "clear"))  # Clear the console.
 
     jokes = [] # Create an empty list to store the jokes in.
 

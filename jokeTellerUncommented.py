@@ -5,11 +5,7 @@ JOKE_FILE = "jokes.txt"
 QUIT_KEY = "Q"
 
 def main():
-    try:
-        system(("cls" if name == "nt" else "clear"))
-    except Exception as error:
-        CLEAR_COMMAND = ""
-        print(f"The clear command \"{CLEAR_COMMAND}\" is not supported on this system, with reason: {error}. Execution will continue, but the console may not be cleared.")
+    system(("cls" if name == "nt" else "clear"))
 
     jokes = []
 
