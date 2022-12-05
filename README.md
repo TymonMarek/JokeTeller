@@ -3,7 +3,8 @@ Tymon Marek @ Ormiston SWB Academy / Year 10 (https://github.com/TymonMarek)
 
 # How to run
 1. Download [jokeTeller.py](https://github.com/TymonMarek/JokeTeller/blob/main/jokeTeller.py)
-2. Run the `py jokeTeller.py`
+3. Make sure you have Python 3 or higher installed on your computer.
+2. Run `py jokeTeller.py` in the terminal/command prompt.
 
 # Notes
 1. All code is made by me besides jokes.txt, which is taken from (https://github.com/yesinteractive/dadjokes/blob/master/controllers/jokes.txt).
