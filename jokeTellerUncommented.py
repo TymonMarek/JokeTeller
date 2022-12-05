@@ -10,7 +10,7 @@ def main():
     jokes = []
 
     try:
-        with open(JOKE_FILE, "r", encoding="utf8") as jokeFile:
+        with open(JOKE_FILE, mode="r", encoding="utf8") as jokeFile:
             for line in jokeFile:
                 if line.startswith("#") or line.isspace():
                     continue
