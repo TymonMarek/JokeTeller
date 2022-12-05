@@ -2,7 +2,7 @@
 Tymon Marek @ Ormiston SWB Academy / Year 10 (https://github.com/TymonMarek)
 
 # How to run
-1. Download `jokeTeller.py`
+1. Download [jokeTeller.py](https://github.com/TymonMarek/JokeTeller/blob/main/jokeTeller.py)
 2. Run the `py jokeTeller.py`
 
 # Notes
