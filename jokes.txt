@@ -1,3 +1,5 @@
+# Format: Joke | Answer
+# Joke will be shown first, then after a prompt to continue, the answer will be shown
 What did one pirate say to the other when he beat him at chess? | Checkmatey.
 I burned 2000 calories today | I left my food in the oven for too long.
 I startled my next-door neighbor with my new electric power tool.  | I had to calm him down by saying “Don’t worry, this is just a drill!”
