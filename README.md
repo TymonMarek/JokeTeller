@@ -12,7 +12,7 @@ Tymon Marek @ Ormiston SWB Academy / Year 10 (https://github.com/TymonMarek)
 3. There are two versions of this program, one with and one without comments.
 
 # Troubleshooting errors:
-1. Make sure the file isn't corrupted. (MD5 hash of "jokeTeller.py" is 1514a995aabb6b33711007fe7aac0125)
+1. Make sure the file isn't corrupted. (MD5 hash of "jokeTeller.py" is 831f86dd20abc91cc270e7bccae5be68)
 2. Make sure you have the correct access rights to the required files and modules.
 3. Make sure you have the required modules installed. (os, random)
 4. Make sure you have Python 3.11 or newer installed.
