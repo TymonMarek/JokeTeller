@@ -18,15 +18,16 @@ Tymon Marek @ Ormiston SWB Academy / Year 10 (https://github.com/TymonMarek)
 4. Make sure you have Python 3.11 or newer installed.
 
 # Pros:
-1. Uses a text file instead of being a hard-coded list.
-2. Fast, easy to use, and easy to understand.
-3. Lightweight, only 2 KB (Uncommented).
-4. Works on any version of Python 3.
-5. Works on any operating system.
-6. Easy to add more jokes.
-7. Easy to modify.
-8. Very flexible.
-9. Easy to test.
+1. Uses standard naming conventions (All caps for constant, camel case for variables)
+2. Uses a text file instead of being a hard-coded list.
+3. Fast, easy to use, and easy to understand.
+4. Lightweight, only 2 KB (Uncommented).
+5. Works on any version of Python 3.
+6. Works on any operating system.
+7. Easy to add more jokes.
+8. Easy to modify.
+9. Very flexible.
+10. Easy to test.
 
 # Cons: 
 1. Method of clearing the console could be improved.
