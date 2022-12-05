@@ -24,7 +24,7 @@ def main(): # The main function is the entry point of the program.
     try: # Try to open the joke file.
         with open(JOKE_FILE, mode="r", encoding="utf8") as jokeFile: # Open the joke file in read mode, and set the encoding to utf8.
             for line in jokeFile: # Loop through each line in the file.
-                if line.startswith("#"): # If the line starts with a "#", then it is a comment, so skip it.
+                if line.startswith("#") or line.isspace(): # If the line starts with a "#", then it is a comment, so skip it. If the line is empty, then skip it.
                     continue # Skip to the next line.
 
                 try: # Try to split the line into a joke and an answer.
